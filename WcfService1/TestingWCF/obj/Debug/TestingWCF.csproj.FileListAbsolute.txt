@@ -1,0 +1,7 @@
+C:\Users\grade\source\repos\WcfService1\TestingWCF\bin\Debug\TestingWCF.exe.config
+C:\Users\grade\source\repos\WcfService1\TestingWCF\bin\Debug\TestingWCF.exe
+C:\Users\grade\source\repos\WcfService1\TestingWCF\bin\Debug\TestingWCF.pdb
+C:\Users\grade\source\repos\WcfService1\TestingWCF\obj\Debug\TestingWCF.csprojAssemblyReference.cache
+C:\Users\grade\source\repos\WcfService1\TestingWCF\obj\Debug\TestingWCF.csproj.CoreCompileInputs.cache
+C:\Users\grade\source\repos\WcfService1\TestingWCF\obj\Debug\TestingWCF.exe
+C:\Users\grade\source\repos\WcfService1\TestingWCF\obj\Debug\TestingWCF.pdb
